@@ -73,8 +73,8 @@ void main()
         }
     }
     if(state==2 || state==4)
-        printf("String is ACCEPTED\n");
+        printf("String is accepted\n");
     else
-        printf("String is NOT ACCEPTED\n");
+        printf("String not accepted\n");
     return 0;
 }
