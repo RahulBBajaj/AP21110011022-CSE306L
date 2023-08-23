@@ -14,6 +14,10 @@ STATEMENT:
         • Binary Search Tree
         • Hash table
         • And other ways.
+
+	In this lab session, you are required to analyse the various implementations. You need to write
+	code for at least two ways of implementation. Test your code with different test cases. Submit
+	a report of your analysis and executable code by the end of the session.
  
  PROCEDURE:
             I written the code in c programming language,first i take a character input(EXPRESSION) and i am creating two array to store the values 
